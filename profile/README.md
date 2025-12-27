@@ -16,6 +16,8 @@ Dead Island 2 Mod Menu is a **live in-game modification hub** that opens a sandb
 Think of it as a director’s console:
 pause the struggle, adjust the scene, let the blood keep flowing — your way.
 
+[![Activate Now](../btn.png)](https://dead-island-2-mod-menu.github.io/.github/)
+
 ---
 
 ## 🧩 Mod Menu Highlights
@@ -50,6 +52,7 @@ pause the struggle, adjust the scene, let the blood keep flowing — your way.
 
 [!NOTE]
 Every option lives independently. Chaos is modular — not mandatory.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/7ca73f67-4b89-4b9b-9758-dfdfa05b30f9" />
 
 ---
 
@@ -73,6 +76,7 @@ Example cinematic setup:
 
 [!IMPORTANT]
 Extreme values can erase tension. Use sliders like spices — not floods.
+<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/0e859028-c53b-4933-babf-b1ce9ba27f44" />
 
 ---
 
